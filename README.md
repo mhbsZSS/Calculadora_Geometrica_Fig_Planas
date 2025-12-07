@@ -49,9 +49,9 @@ A calculadora realiza o cálculo da área das seguintes figuras planas:
 
 ## 📸 Screenshots
 
-![alt text](/CalculadorCLI/img/imageCLI.png)
-![alt text](/CalculadorCLI/img/imageGUI.png)
-![alt text](/CalculadorCLI/img/areaCirculo.png)
+![Funcionando no Terminal](CalcFigurasPlanas/CalculadorCLI/img/imageCLI.png)
+![Funcionando na Interface](CalcFigurasPlanas/CalculadorCLI/img/imageGUI.png)
+![Exemplo do cálculo da área do círculo](CalcFigurasPlanas/CalculadorCLI/img/areaCirculo.png)
 ---
 
 ## ⚙️ Como Rodar o Projeto
@@ -96,3 +96,4 @@ A calculadora realiza o cálculo da área das seguintes figuras planas:
 ---
 
 *Desenvolvido com ☕ e lógica matemática.*
+
